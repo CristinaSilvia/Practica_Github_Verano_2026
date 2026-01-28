@@ -1,1 +1,2 @@
 1- Creamos un directorio en el repositorio local
+2 - Volvemos a crear otro directorio llamado.
