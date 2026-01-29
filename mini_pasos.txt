@@ -8,3 +8,17 @@
 
 5 - Ponemos dir y ya aparece el texto que creamos,
     Mini_pasos.txt
+
+6 - Inicializamos git.
+     git init
+     Initialized empty git repository in c:/users/user/repost-git/Practica_GitHub_2026/.git/
+
+7 - Verificamos el status
+     git status
+     No commits yet
+     Untracked files:
+         (use "git add <file>..." to include in what will be committed)
+            Mini_Pasos_GitHub.txt
+
+   nothing added to commit but untracked files present (use "git add" to track)
+
