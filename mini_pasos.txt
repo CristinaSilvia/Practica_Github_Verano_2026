@@ -1,2 +1,10 @@
-1- Creamos un directorio en el repositorio local
+1 - Creamos un directorio en el repositorio local.
 2 - Volvemos a crear otro directorio llamado.
+3 - Entramos al directorio  Practica_GitHub_2026.
+
+4 - Verificamos la versión de git instalada.
+     git --versión
+     git versión 2.45.2.windows.1
+
+5 - Ponemos dir y ya aparece el texto que creamos,
+    Mini_pasos.txt
