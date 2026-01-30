@@ -22,3 +22,6 @@
 
    nothing added to commit but untracked files present (use "git add" to track)
 
+8 - Creamos un directorio llamado "Nueva carpeta".
+    a. Incorporamos el archivo certificado.html
+
