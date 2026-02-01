@@ -24,4 +24,5 @@
 
 8 - Creamos un directorio llamado "Nueva carpeta".
     a. Incorporamos el archivo certificado.html
+    b. Incorporamos el archivo certificado.css
 
